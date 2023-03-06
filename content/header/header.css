@@ -1,0 +1,20 @@
+@import url(./__link/header__link.css);
+@import url(./__main-ilustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__title/header__title.css);
+@import url(./logo/logo.css);
+@import url(./table/_theme/table__cell_theme_dark.css);
+@import url(./rotation/rotation.css);
+
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  min-width: 1100;
+  display: flex;
+  background-color: #F2F2F2;
+  position: relative;
+  /* parameters for the header section */
+
+}

@@ -1,0 +1,4 @@
+.kaufman__triangle:hover {
+    transform: rotate(360deg);
+    transition: transform 20s ease-out;
+  }
