@@ -1,3 +1,9 @@
+@import url(./two-columns/two-columns.css);
+@import url(./two-columns/__brief/two-columns__brief.css.css);
+@import url(./two-columns/__main-text/two-columns__main-text.css);
+@import url(./two-columns/__paragraph/two-columns__paragraph.css);
+@import url(./two-columns/__span-accent/two-columns_span-accent.css);
+
 .description {
   min-height: auto;
   padding-top: 100px;

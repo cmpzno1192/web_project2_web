@@ -3,7 +3,9 @@
     right: -124px;
     width: 636px;
     height: 660px;
-    top: 0;
+    top: 200px;
     color: #2F80ED;
     z-index: 1;
+    transform: rotate(0deg);
+    animation: rotation 20s infinite;
   }

@@ -1,5 +1,5 @@
 @import url(./__link/header__link.css);
-@import url(./__main-ilustration/header__main-illustration.css);
+@import url(./__main-llustration/header__main-illustration.css);
 @import url(./__square-pic/header__square-pic.css);
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__title/header__title.css);
@@ -15,6 +15,5 @@
   display: flex;
   background-color: #F2F2F2;
   position: relative;
-  /* parameters for the header section */
-
+  overflow: hidden;
 }

@@ -1,55 +1,7 @@
-
-.digits {
-}
-
-.section-title {
-  margin: auto;
-  width: 60%;
-  margin-top: 100px;
-  margin-bottom: 20px;
-  text-align: center;
-  font-weight: bold;
-  font-size: 60px;
-  line-height: 1.15;
-}
-
-.section-subtitle {
-  margin: auto;
-  width: 60%;
-  margin-bottom: 60px;
-  text-align: center;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-}
-
-.table {
-  width: 1100px;
-  margin: auto;
-  margin-bottom: 100px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  row-gap: 60px;
-}
-
-.table__cell {
-  width: 250px;
-}
-
-.table__heading {
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
-
-.text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-}
-
-.ft-text {
-  padding-top: 20px;
-}
+@import url(./section-title/section-title.css.css);
+@import url(./section-subtitle/section-subtitle.css.css);
+@import url(./table/cell/digits_table__cell.css);
+@import url(./table/heading/digits_table__heading.css);
+@import url(./table/table.css);
+@import url(./text/text.css);
+@import url(./ft-text/.ft-text.css);

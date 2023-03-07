@@ -1,5 +1,15 @@
 @import url(../content/pages.css);
 @import url(../content/header/header.css);
+@import url(../content/description/description.css);
+@import url(../content/techniques/techniques.css);
+@import url(../content/video/Video.css);
+@import url(../content/oakley/oakley.css);
+@import url(../content/feynman/feynman.css);
+@import url(../content/digits/digits.css);
+@import url(../content/khan/khan.css);
+@import url(../content/kaufman/kaufman.css);
+@import url(../content/resources/resources.css);
+@import url(../content/footer/footer.css);
 
 
 /*
@@ -76,7 +86,7 @@
         transform: rotate(-15deg);
         animation: rotation 20s infinite;
       }
-*/
+
 
 .description {
   min-height: auto;
@@ -172,7 +182,7 @@
 
 .video__iframes {
   margin: auto;
-  width:1050px;
+  width: 1050px;
   display:flex;
   flex-wrap: wrap;
   margin-bottom: 100px;
@@ -191,7 +201,6 @@
   z-index: 1;
   background-color: #F2F2F2;
 }
-
 
 .feynman {
   height: 790px;
@@ -300,6 +309,8 @@
 .ft-text {
   padding-top: 20px;
 }
+
+
 
 .khan {
   background-color: #F2F2F2;
@@ -539,3 +550,5 @@ margin-bottom: 217px;
  height: 16px;
  padding-right: 10px;
 }
+
+*/
