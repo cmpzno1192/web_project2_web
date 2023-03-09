@@ -1,4 +1,4 @@
 @import url(./__iframes/video__iframes.css);
-@import url(./__iframes/__iframe/video__iframe.css);
-@import url(./section-title/section-title.css);
-@import url(./section-subtitle/section-subtitle.css);
+@import url(./__iframes/_iframe/video__iframes_frame.css);
+@import url(./video__section-subtitle/video__section-subtitle.css);
+@import url(./video__section-title/video__section-title.css);

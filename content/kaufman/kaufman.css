@@ -1,13 +1,11 @@
 @import url(./__triangle/kaufman__triangle.css);
-@import url(./__triangle/kaufman__triangle_hover.css);
-@import url(./kaufman.css);
-@import url(./section-title/theme/section-title_theme_dark.css);
-@import url(./section-subtitle/theme/section-subtitle_theme_dark.css);
-@import url(./table/__cell/table__cell_theme_dark.css);
-@import url(./table/heading/theme/table__heading_theme_dark.css);
-@import url(./table/text/theme/table__text_theme_dark.css);
-@import url(./table/theme/table_theme_dark.css);
-@import url(./rotation/rotation.css);
+@import url(./__section-title/theme/kaufman__section-title_theme_dark.css);
+@import url(./__section-subtitle/theme/kaufman__section-subtitle_theme_dark.css);
+@import url(./__table/_cell/kaufman__table_cell_theme_dark.css);
+@import url(./__table/_heading/theme/kaufman__table_heading_theme_dark.css);
+@import url(./__table/_text/_theme/kaufman__table_text_theme_dark.css);
+@import url(./__table/_theme/kaufman__table_theme_dark.css);
+@import url(./__rotation/header__rotation.css);
 
 .kaufman {
   background-color:#000000;

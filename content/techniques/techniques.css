@@ -1,7 +1,7 @@
-@import url(./cards/cards.css.css);
-@import url(./cards/__image/cards__image.css.css);
-@import url(./cards/__item/cards__item.css.css);
-@import url(./cards/__title/cards__title.css.css);
-@import url(./cards__description/cards__description.css.css);
-@import url(./section-subtitle/section-subtitle.css.css);
-@import url(./section-title/section-title.css.css);
+@import url(./__cards/_image/techniques__cards_image.css);
+@import url(./__cards/_item/techniques__cards_item.css);
+@import url(./__cards/_title/techniques__cards_title.css);
+@import url(./__cards/techniques__cards.css);
+@import url(./__cards_description/techniques__cards_description.css);
+@import url(./__section-title/techniques__section-title.css);
+@import url(./__section-subtitle/techniques__section-subtitle.css);

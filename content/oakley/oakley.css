@@ -1,8 +1,7 @@
-@import url(./two-columns/two-columns.css);
-@import url(./two-columns/__brief/two-columns__brief.css.css);
-@import url(./two-columns/__main-text/two-columns__main-text.css);
-@import url(./two-columns/__paragraph/two-columns__paragraph.css);
-
+@import url(./oakley__two-columns/oakley__two-columns.css);
+@import url(./oakley__two-columns/_brief/oakley__two-columns_brief.css.css);
+@import url(./oakley__two-columns/_main-text/oakley__two-columns_main-text.css);
+@import url(./oakley__two-columns/_paragraph/oakley__two-columns_paragraph.css);
 
 .oakley {
   min-height: auto;

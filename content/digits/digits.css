@@ -1,7 +1,7 @@
-@import url(./section-title/section-title.css.css);
-@import url(./section-subtitle/section-subtitle.css.css);
-@import url(./table/cell/digits_table__cell.css);
-@import url(./table/heading/digits_table__heading.css);
-@import url(./table/table.css);
-@import url(./text/text.css);
-@import url(./ft-text/.ft-text.css);
+@import url(./__section-title/digits__section-title.css);
+@import url(./__section-subtitle/digits__section-subtitle.css);
+@import url(./__table/digits__table.css);
+@import url(./__table/_cell/digits__table_cell.css);
+@import url(./__table/_heading/digits__table_heading.css);
+@import url(./__text/digits__text.css);
+@import url(./__ft-text/digits__ft-text.css);

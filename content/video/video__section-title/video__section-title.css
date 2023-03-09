@@ -1,0 +1,10 @@
+.video__section-title {
+    margin: auto;
+    width: 60%;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 1.15;
+  }

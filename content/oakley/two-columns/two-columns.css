@@ -1,8 +1,0 @@
-.two-columns {
-  display: flex;
-  margin: auto;
-  gap: 100px;
-  margin-left: 100px;
-  z-index: 2;
-  align-content: space-around;
-}
